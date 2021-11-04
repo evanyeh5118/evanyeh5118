@@ -1,12 +1,12 @@
 ![alt README header](https://mcdn.wallpapersafari.com/medium/18/28/MeBqFd.jpg)
 
 ## Control, Data / Signal processing / Robotics
+- 🔭 Currently working at Realtek, a semiconductor company in TAIWAN
+- 🌱 I’m currently learning how to use Github :>
+
 I'm enthusiastic to learn anything !! My target is try to merge the domain knowleges in control and communications engineering.
 
 So far I'm working on Active noise control(ANC) topics. It's a intersing subject which is related to both signal processing and control theory.
-
-🔭 Currently working at Realtek, a semiconductor company in TAIWAN
-🌱 I’m currently learning how to use Github :>
 
 🌎 Check my [portfolio](https://www.facebook.com/EvanYeh1018/)
 
