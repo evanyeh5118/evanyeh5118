@@ -1,7 +1,6 @@
 ![alt README header](https://mcdn.wallpapersafari.com/medium/18/28/MeBqFd.jpg)
 
 ## Control, Data / Signal processing / Robotics
-I'm enthusiastic to learn anything !! My target is try to merge the domain knowleges in control and communications engineering.
 
 <<<<<<< HEAD
 =======
@@ -19,8 +18,3 @@ Feel free to reach out 💬
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
 </div>
-
-<<<<<<< HEAD
-This is something added on main
-=======
->>>>>>> features
