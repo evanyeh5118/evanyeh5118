@@ -2,10 +2,6 @@
 
 ## Control, Data / Signal processing / Robotics
 
-<<<<<<< HEAD
-=======
-
->>>>>>> features
 🔭 Currently working at Realtek, a semiconductor company in TAIWAN
 🌱 I’m currently learning how to use Github :>
 
