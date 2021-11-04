@@ -1,4 +1,4 @@
-![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
+![alt README header](https://mcdn.wallpapersafari.com/medium/18/28/MeBqFd.jpg)
 
 ## Control, Data / Signal processing / Robotics
 
