@@ -2,8 +2,8 @@
 
 ## Control, Data / Signal processing / Robotics
 
-- 🔭 Currently working at Realtek, a semiconductor company in TAIWAN
-- 🌱 I’m currently learning how to use Github :>
+🔭 Currently working at Realtek, a semiconductor company in TAIWAN
+🌱 I’m currently learning how to use Github :>
 
 🌎 Check my [portfolio](https://www.facebook.com/EvanYeh1018/)
 
@@ -14,8 +14,3 @@ Feel free to reach out 💬
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
 </div>
-
------
-Credits: [Ivelin Iliev](https://github.com/Iwi4a)
-
-Last Edited on: 25/11/2020
