@@ -1,9 +1,11 @@
 ![alt README header](https://mcdn.wallpapersafari.com/medium/18/28/MeBqFd.jpg)
 
 ## Control, Data / Signal processing / Robotics
+I'm enthusiastic to learn anything !! My target is try to merge the domain knowleges in control and communications engineering.
 
-- 🔭 Currently working at Realtek, a semiconductor company in TAIWAN
-- 🌱 I’m currently learning how to use Github :>
+
+🔭 Currently working at Realtek, a semiconductor company in TAIWAN
+🌱 I’m currently learning how to use Github :>
 
 🌎 Check my [portfolio](https://www.facebook.com/EvanYeh1018/)
 
@@ -15,7 +17,3 @@ Feel free to reach out 💬
     </a>
 </div>
 
------
-Credits: [Ivelin Iliev](https://github.com/Iwi4a)
-
-Last Edited on: 25/11/2020
