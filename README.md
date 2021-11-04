@@ -1,6 +1,7 @@
 ![alt README header](https://mcdn.wallpapersafari.com/medium/18/28/MeBqFd.jpg)
 
 ## Control, Data / Signal processing / Robotics
+I'm enthusiastic to learn anything !! My target is try to merge the domain knowleges in control and communications engineering.
 
 🔭 Currently working at Realtek, a semiconductor company in TAIWAN
 🌱 I’m currently learning how to use Github :>
@@ -15,4 +16,3 @@ Feel free to reach out 💬
     </a>
 </div>
 
-This is something added on main
